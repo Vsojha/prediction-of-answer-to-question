@@ -27,10 +27,15 @@ Natural Language Processing (NLP)
 
 How It Works
 Load Dataset → Reads question–answer pairs from CSV
+
 Text Preprocessing → Lowercasing, punctuation removal, tokenization
+
 Vocabulary Building → Maps each word to an index
+
 Embedding + RNN Model → Learns patterns between questions and answers
+
 Training → Uses CrossEntropyLoss + Adam
+
 Prediction → Input question → Model predicts answer with confidence score
 
 ▶️ How to Run
