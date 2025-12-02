@@ -6,12 +6,16 @@ This project focuses on building a Question Answering (QA) system that learns fr
 🚀 Features
 🔹 Custom Tokenization & Vocabulary Mapping
 Cleans text, tokenizes sentences, and builds a unique vocabulary.
+
 🔹 Embeddings + RNN Architecture
 Uses embedding layers + Recurrent Neural Network for sequence learning.
+
 🔹 PyTorch Dataset & DataLoader
 Efficient batching, shuffling, and pre-processing for training.
+
 🔹 Trainable QA Model
 Optimized using CrossEntropyLoss and Adam optimizer.
+
 🔹 Prediction with Confidence Score
 Model outputs answer along with probability.
 
