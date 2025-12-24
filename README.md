@@ -5,7 +5,7 @@ This project focuses on building a Question Answering (QA) system that learns fr
 
  PROJECT SCREENSHOT
 
-![Project screenshot](images/screenshot.png)
+![Project screenshot](Screenshot.png)
 
 🚀 Features
 🔹 Custom Tokenization & Vocabulary Mapping
