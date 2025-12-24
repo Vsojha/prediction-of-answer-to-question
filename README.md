@@ -3,9 +3,9 @@
 An AI-powered NLP model that predicts answers from question–answer datasets using PyTorch and RNN.
 This project focuses on building a Question Answering (QA) system that learns from a dataset of questions and answers. It processes text, builds a custom vocabulary, trains an RNN-based neural network, and predicts the most likely answer for a given input question.
 
-! PROJECT SCREENSHOT
+ PROJECT SCREENSHOT
 
-![alt text](Screenshot 2025-12-24 073835.png)
+![Project screenshot](images/screenshot.png)
 
 🚀 Features
 🔹 Custom Tokenization & Vocabulary Mapping
